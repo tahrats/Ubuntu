@@ -1,0 +1,3 @@
+https://developer.hashicorp.com/packer/guides/automatic-operating-system-installs/preseed_ubuntu
+
+https://developer.hashicorp.com/packer/docs/install
